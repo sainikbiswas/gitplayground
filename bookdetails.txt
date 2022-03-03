@@ -1,0 +1,4 @@
+Book Name: A Tale Of Two Cities
+Author: Charles Dickens
+Publisher: Chapman & Hall
+Location: United Kingdom
