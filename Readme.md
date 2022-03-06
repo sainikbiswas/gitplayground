@@ -4,4 +4,8 @@ I am using this repo to learn and play with Git. I wanted a safe place to play w
 
 ## 3rd March 2022
 
-Learned How to add multiple remotes and push commits to Gitlab and Github. 
+Learned how to add multiple remotes and push commits to Gitlab and Github. 
+
+## 7th March 2022
+
+Learned how to sign a commit using GPG
