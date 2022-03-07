@@ -8,4 +8,5 @@ Learned How to add multiple remotes and push commits to Gitlab and Github.
 
 ## 7th March 2022
 
+Learned How to use git rebase interactive to rewrite commits as per requirement
 Learned How to initialize and use submodules in Git.
