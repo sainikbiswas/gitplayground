@@ -5,3 +5,7 @@ I am using this repo to learn and play with Git. I wanted a safe place to play w
 ## 3rd March 2022
 
 Learned How to add multiple remotes and push commits to Gitlab and Github. 
+
+## 7th March 2022
+
+Learned How to initialize and use submodules in Git.
